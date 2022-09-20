@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Bash Scripts
-make_package
+make_package.sh
 .vscode/
